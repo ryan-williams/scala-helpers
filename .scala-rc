@@ -2,3 +2,8 @@
 alias sz=start-zinc
 
 alias eis=enforce-import-spaces
+
+export smr=src/main/resources
+export sms=src/main/scala
+export str=src/test/resources
+export sts=src/test/scala
